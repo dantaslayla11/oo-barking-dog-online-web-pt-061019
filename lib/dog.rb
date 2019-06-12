@@ -9,10 +9,10 @@ class Dog
   end
 end
  
-fido = Dog.new
-fido.name = "fido"
+Fido = Dog.new
+Fido.name = "Fido"
  
-puts fido.name
+puts Fido.name
 
 
   def bark
@@ -20,4 +20,4 @@ puts fido.name
   end
 end
 
-fido.bark
+Fido.bark
