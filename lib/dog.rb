@@ -19,7 +19,7 @@ puts Fido.name
   end
 
 
-fido = Dog.new
-fido.bark 
+Fido = Dog.new
+Fido.bark 
 
  
