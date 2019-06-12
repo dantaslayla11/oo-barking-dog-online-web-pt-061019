@@ -12,14 +12,13 @@ end
 Fido = Dog.new
 Fido.name = "Fido"
  
-puts Fido.name
+#puts Fido.name
 
  def bark
     puts "Woof!"
   end
 
 
-Fido = Dog.new
-Fido.bark 
+
 
  
