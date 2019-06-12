@@ -19,6 +19,6 @@ puts Fido.name
   end
 
 
-Fido.bark
+fido.bark
 
  
