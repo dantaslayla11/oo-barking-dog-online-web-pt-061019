@@ -3,6 +3,7 @@ class Dog
 fido.name = "Fido"
  
 fido.name
+# => "Fido"
 
  
  end
