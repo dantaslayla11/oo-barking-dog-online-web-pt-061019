@@ -9,15 +9,15 @@ class Dog
   end
 end
  
-lassie = Dog.new
-lassie.name = "Lassie"
+fido = Dog.new
+fido.name = "fido"
  
-puts lassie.name
+puts fido.name
 
-class Dog
+
   def bark
     puts "Woof!"
   end
 end
 
-lassie.bark
+fido.bark
