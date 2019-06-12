@@ -14,3 +14,9 @@ lassie.name = "Lassie"
  
 puts lassie.name
 
+class Dog
+  def bark
+    puts "Woof!"
+  end
+end
+
